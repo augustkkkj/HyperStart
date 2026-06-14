@@ -36,25 +36,25 @@ Ajustar tamanhos e posições dos aplicativos.
 
 📂 Fluxo de Execução
 Início
-│
-├── Abrir Brave
-│
+
+└──  Abrir Brave
+
 ├── Abrir 3 abas pré-configuradas
-│
+
 ├── Abrir Visual Studio Code
-│
+
 ├── Aguardar carregamento dos aplicativos
-│
+
 ├── Localizar janelas abertas
-│
+
 ├── Redimensionar Brave
-│
+
 ├── Posicionar Brave na tela
-│
+
 ├── Redimensionar VS Code
-│
+
 ├── Posicionar VS Code na tela
-│
+
 └── Finalizar automação
 
 
