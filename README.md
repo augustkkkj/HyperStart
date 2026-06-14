@@ -22,6 +22,8 @@ PyGetWindow
 Subprocess
 Time
 OS
+
+
 🎯 Objetivo
 
 O principal objetivo deste projeto é automatizar tarefas repetitivas realizadas no início do expediente ou dos estudos, permitindo que o usuário comece a trabalhar imediatamente sem precisar:
@@ -30,6 +32,8 @@ Abrir programas manualmente.
 Abrir sites frequentemente utilizados.
 Organizar janelas na tela.
 Ajustar tamanhos e posições dos aplicativos.
+
+
 📂 Fluxo de Execução
 Início
 │
@@ -52,6 +56,8 @@ Início
 ├── Posicionar VS Code na tela
 │
 └── Finalizar automação
+
+
 💡 Caso de Uso
 
 Esta automação é ideal para:
@@ -60,12 +66,16 @@ Desenvolvedores.
 Estudantes de programação.
 Profissionais de suporte técnico.
 Usuários que utilizam sempre os mesmos programas e páginas ao iniciar o computador.
+
+
 📈 Benefícios
 Economia de tempo.
 Padronização do ambiente de trabalho.
 Maior produtividade.
 Redução de tarefas repetitivas.
 Melhor organização da área de trabalho.
+
+
 🔮 Melhorias Futuras
 Seleção dinâmica dos sites que serão abertos.
 Suporte para múltiplos monitores.
